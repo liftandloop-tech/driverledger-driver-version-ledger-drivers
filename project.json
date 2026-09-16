@@ -1,0 +1,41 @@
+{
+  "id": 68,
+  "category": "pc-utility",
+  "slug": "driver-version-ledger",
+  "target": "Windows drivers",
+  "appid": null,
+  "summaryRu": "Реестр версий драйверов и источников без установки неподписанных пакетов.",
+  "features": [
+    "Driver inventory table",
+    "Vendor source links",
+    "Rollback preparation notes"
+  ],
+  "title": "DriverLedger — Windows drivers — Drivers",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "general-platform-context",
+      "sourceId": "windows-performance",
+      "detail": "General Windows performance context, not endorsement or validation of this proposed utility."
+    }
+  ],
+  "brand": "DriverLedger",
+  "repositoryName": "driverledger-driver-version-ledger-drivers",
+  "githubTopics": [
+    "windows-drivers",
+    "driver-inventory",
+    "vendor-sources",
+    "rollback-planning",
+    "windows",
+    "pc-diagnostics",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "drivers"
+}
